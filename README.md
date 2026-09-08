@@ -21,7 +21,7 @@ The dashboard is built for quick, at-a-glance decision-making, with drill-downs 
 
 ![Pizza Sales Dashboard Preview](preview.png)
 
-*(Screenshot of the Home page — see the live link above for the full interactive version, including the Best/Worst Sellers page.)*
+*(Screenshot of the Home page, see the live link above for the full interactive version, including the Best/Worst Sellers page.)*
 
 ##  Key Metrics (KPIs)
 
@@ -35,8 +35,8 @@ The dashboard is built for quick, at-a-glance decision-making, with drill-downs 
 
 ##  Dashboard Pages
 
-1. **Home** — KPI summary, hourly and weekly order trends, and sales breakdowns by pizza category and size.
-2. **Best/Worst Sellers** — Ranks individual pizzas by revenue and quantity sold to surface top and bottom performers.
+1. **Home**: KPI summary, hourly and weekly order trends, and sales breakdowns by pizza category and size.
+2. **Best/Worst Sellers**: Ranks individual pizzas by revenue and quantity sold to surface top and bottom performers.
 
 ##  Key Insights
 
@@ -48,12 +48,12 @@ The dashboard is built for quick, at-a-glance decision-making, with drill-downs 
 
 ##  Built With
 
-- **[Tableau Public](https://public.tableau.com/)** — dashboard design, visualization, and hosting
+- **[Tableau Public](https://public.tableau.com/)** : dashboard design, visualization, and hosting
 - Source data: pizza sales transactions (order-level detail including date, time, category, size, and pizza item)
 
 ##  Project Contents
 
-- `pizza_sales_analysis_report.pptx` — presentation summarizing the dashboard and linking to the live version
+- `pizza_sales_analysis_report.pptx` : presentation summarizing the dashboard and linking to the live version
 - Live interactive dashboard hosted on Tableau Public (link above)
 
 ##  How to Explore
