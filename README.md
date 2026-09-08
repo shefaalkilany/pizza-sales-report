@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales Analysis — Interactive Dashboard
+# 🍕 Pizza Sales Analysis - Interactive Dashboard
 
 An interactive Tableau dashboard analyzing a year of pizza restaurant sales, covering revenue, order volume, peak demand times, and product performance by category and size.
 
